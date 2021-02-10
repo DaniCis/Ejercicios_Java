@@ -1,0 +1,3 @@
+C:\Users\PC\Desktop\Dani\3ro\POO\JavaProjects\SistemaDeHospital\src\Medico.java
+C:\Users\PC\Desktop\Dani\3ro\POO\JavaProjects\SistemaDeHospital\src\Paciente.java
+C:\Users\PC\Desktop\Dani\3ro\POO\JavaProjects\SistemaDeHospital\src\SistemaDeHospital.java

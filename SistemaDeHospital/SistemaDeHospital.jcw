@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>SistemaDeHospital</label>
+	</settings>
+	<users>
+		<user>
+			<path>SistemaDeHospital.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>SistemaDeHospital.jcp</path>
+		</project>
+	</projects>
+</workspace>
