@@ -1,0 +1,3 @@
+C:\Users\PC\Desktop\Dani\3ro\POO\JavaProjects\SistemaAcademico\src\Estudiante.java
+C:\Users\PC\Desktop\Dani\3ro\POO\JavaProjects\SistemaAcademico\src\Profesor.java
+C:\Users\PC\Desktop\Dani\3ro\POO\JavaProjects\SistemaAcademico\src\SistemaAcademico.java

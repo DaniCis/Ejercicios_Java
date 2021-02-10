@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>SistemaAcademico</label>
+	</settings>
+	<users>
+		<user>
+			<path>SistemaAcademico.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>SistemaAcademico.jcp</path>
+		</project>
+	</projects>
+</workspace>
