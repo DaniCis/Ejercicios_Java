@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>Figurasgeometricas</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>Figurasgeometricas</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>classes</path>
+			</folderitem>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+			<fileitem>
+				<path>src\Figurasgeometricas.java</path>
+				<collapsedfolds>0;0;117;4</collapsedfolds>
+			</fileitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>src\Figurasgeometricas.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+		<docitem>
+			<path>classes\Figurasgeometricas.htm</path>
+			<source>true</source>
+			<index>1</index>
+			<active>false</active>
+		</docitem>
+	</open_files>
+	<symboltables>
+		<symboltable>
+			<path>src\Trapecio.java.sdk</path>
+			<symbols/>
+		</symboltable>
+		<symboltable>
+			<path>src\Cilindro.java.sdk</path>
+			<symbols/>
+		</symboltable>
+		<symboltable>
+			<path>..\..\..\..\..\..\..\..\Program Files\Java\jdk1.8.0_201\src.zip!java\awt\Graphics.java.sdk</path>
+			<symbols/>
+		</symboltable>
+		<symboltable>
+			<path>..\Biblioteca\src\Biblioteca.java.sdk</path>
+			<symbols/>
+		</symboltable>
+		<symboltable>
+			<path>src\Figurasgeometricas.java.sdk</path>
+			<symbols>
+				<symbol>Cilindro</symbol>
+				<symbol>Cono</symbol>
+				<symbol>Figurasgeometricas</symbol>
+				<symbol>Trapecio</symbol>
+			</symbols>
+		</symboltable>
+	</symboltables>
+</workspace_user>
