@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>TextExample</label>
+		<id>25</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>TextExample.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>TextExample.jcp</path>
+		</project>
+	</projects>
+</workspace>
