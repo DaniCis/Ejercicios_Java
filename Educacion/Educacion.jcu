@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>Educacion</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>Educacion</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>classes</path>
+			</folderitem>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>src\Educacion.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+		<docitem>
+			<path>src\Educacion.htm</path>
+			<source>true</source>
+			<index>1</index>
+			<active>false</active>
+		</docitem>
+	</open_files>
+	<symboltables>
+		<symboltable>
+			<path>src\Educacion.java.sdk</path>
+			<symbols>
+				<symbol>Educacion</symbol>
+				<symbol>Estudiantes</symbol>
+			</symbols>
+		</symboltable>
+	</symboltables>
+</workspace_user>
