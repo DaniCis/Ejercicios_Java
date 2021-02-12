@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>EcuacionGraf</label>
+	</settings>
+	<users>
+		<user>
+			<path>EcuacionGraf.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>EcuacionGraf.jcp</path>
+		</project>
+	</projects>
+</workspace>

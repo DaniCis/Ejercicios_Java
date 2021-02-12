@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Ecuaciones</label>
+		<id>883</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>Ecuaciones.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Ecuaciones.jcp</path>
+		</project>
+	</projects>
+</workspace>
