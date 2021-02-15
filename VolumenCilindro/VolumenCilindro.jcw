@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>VolumenCilindro</label>
+	</settings>
+	<users>
+		<user>
+			<path>VolumenCilindro.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>VolumenCilindro.jcp</path>
+		</project>
+	</projects>
+</workspace>

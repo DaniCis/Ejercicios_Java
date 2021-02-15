@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>VolumenPiramide</label>
+	</settings>
+	<users>
+		<user>
+			<path>VolumenPiramide.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>VolumenPiramide.jcp</path>
+		</project>
+	</projects>
+</workspace>
